@@ -4,7 +4,7 @@ Plugin Name: Storename Below Product
 Plugin URI: https://github.com/towhidd/woocommerce-content-shop-product
 Description: Storename Below Product in woocommerce content shop product
 Version: 0.1
-Author: Towhid
+Author: Mirza Twhidul Imran
 Author URI: https://www.facebook.com/mtimran
 License: GPL2
 */
